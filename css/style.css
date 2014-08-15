@@ -10,7 +10,7 @@ body {
     background-color: #fafafa;
 }
 nav {
-    background-color: #bdc4c9;
+    background-color: #74b4e2;
     overflow: hidden;
 }
 nav ul {
@@ -56,5 +56,5 @@ footer a {
 footer {
     padding: 30px;
     text-align: center;
-    background-color: #bdc4c9;
+    background-color: #74b4e2;
 }
