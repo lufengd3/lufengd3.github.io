@@ -33,6 +33,7 @@ nav h1 {
 .main {
     width: 1000px;
     margin: 60px auto;
+    min-height: 100%;
 }
 article {
     position: relative;
