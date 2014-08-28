@@ -56,6 +56,7 @@ footer a {
 footer {
     position: absolute;
     bottom: 0;
+    width: 100%;
     padding: 30px;
     text-align: center;
     background-color: #74b4e2;
