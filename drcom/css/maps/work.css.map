@@ -1,0 +1,1 @@
+{"version":3,"sources":["work.less"],"names":[],"mappings":"AAAA,UACC;EACC,qBAAA","file":"work.css","sourcesContent":["#worksPage {\r\n\t#worksLogo {\r\n\t\tmargin: 20px 0 0 35px;\r\n\t}\r\n}"],"sourceRoot":"/source/"}
