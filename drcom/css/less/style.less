@@ -9,10 +9,15 @@ body {
 }
 
 .home {
-    h1 {
-        margin-left: 10%;
-        font-size: 44px;
+    .info {
+        h1 {
+            margin-left: 10%;
+            font-size: 44px;
+            display: inline-block;
+            margin-right: 20px;
+        }
     }
+
     .download {
         width: 1000px;
         height: 553px;
@@ -73,6 +78,11 @@ body {
             text-align: center;
             color: #333;
             cursor: pointer;
+        }
+        li .dbtn .waiting {
+            background: gray;
+            pointer-events: none;
+            cursor: not-allowed;
         }
     }
 }

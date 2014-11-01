@@ -6,9 +6,11 @@ body {
 body .page {
   min-height: 612px;
 }
-.home h1 {
+.home .info h1 {
   margin-left: 10%;
   font-size: 44px;
+  display: inline-block;
+  margin-right: 20px;
 }
 .home .download {
   width: 1000px;
@@ -63,6 +65,11 @@ body .page {
   text-align: center;
   color: #333;
   cursor: pointer;
+}
+.home .download li .dbtn .waiting {
+  background: gray;
+  pointer-events: none;
+  cursor: not-allowed;
 }
 .helpPage h1 {
   margin-left: 10%;
