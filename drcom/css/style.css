@@ -33,6 +33,9 @@ body .page {
   margin-right: 30px;
   margin-bottom: 30px;
 }
+.home .download li p {
+  font-size: small;
+}
 .home .download .content {
   height: 131px;
   padding-left: 46%;
